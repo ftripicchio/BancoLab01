@@ -12,4 +12,5 @@
     <string name="lblAccionVencimientoAcreditar">Acreditar en cuenta</string>
     <string name="lblAccionVencimientoRenovar">Renovar Plazo Fijo</string>
     <string name="btnHacer">Hacer Plazo Fijo</string>
+    <string name="hintMonto">0.0</string>
 </resources>

@@ -106,7 +106,7 @@ public class PlazoFijo {
 
     public Double intereses(){
         Double tasaInteres = tasa();
-        Double interes = monto * ( Math.pow(1 + tasaInteres/100.0, dias/360.0) -1);
+        Double interes = monto * ( Math.pow(1.0 + tasaInteres/100.0, dias/360.0) -1.0);
         return interes;
     }
 
